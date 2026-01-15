@@ -47,23 +47,21 @@
 
 ###
 ### 
+## 🎖️ Certifications & Badges
 
-##  🎖️ Certifications & Badges
+<img src="https://raw.githubusercontent.com/nisalgunawardhana/How-To-Create-MCP-Server/main/images/badge.png" alt="MCP Server Completed" width="250" align="left" />
+<img src="https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Beginner.png" alt="GitHub Actions Completed" width="250" />
 
+<br clear="left"/>
 
-### 2. GitHub Actions Learning Task
-**Level:** Beginner  
-**Date:** January 15, 2026
-<img src="https://img.shields.io/badge/GitHub_Actions-Learning_Task-blue?style=for-the-badge&logo=github-actions" alt="GitHub Actions Completed" width="200" />
-
-*Successfully completed the automation and CI/CD learning tasks.*
+*Successfully completed the **MCP Server implementation** (Jan 14) and the **GitHub Actions Learning Task** (Jan 15). Both approved by [@nisalgunawardhana](https://github.com/nisalgunawardhana).*
 
 
 
-### MCP Server - .NET Implementation
-**Date:** January 14, 2026
-**Approved by:** [@nisalgunawardhana](https://github.com/nisalgunawardhana)
 
-<img src="https://raw.githubusercontent.com/nisalgunawardhana/How-To-Create-MCP-Server/main/images/badge.png" alt="MCP Server Completed" width="250" />
 
-*Successfully completed the tutorial for building and deploying an MCP Server using .NET.*
+
+
+
+
+##  

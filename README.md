@@ -48,7 +48,17 @@
 ###
 ### 
 
-## 🎖️ Certifications & Badges
+##  🎖️ Certifications & Badges
+
+
+### 2. GitHub Actions Learning Task
+**Level:** Beginner  
+**Date:** January 15, 2026
+<img src="https://img.shields.io/badge/GitHub_Actions-Learning_Task-blue?style=for-the-badge&logo=github-actions" alt="GitHub Actions Completed" width="200" />
+
+*Successfully completed the automation and CI/CD learning tasks.*
+
+
 
 ### MCP Server - .NET Implementation
 **Date:** January 14, 2026

@@ -46,8 +46,14 @@
 
 
 ###
-### 🎖️ My Achievements
-![MCP Server Completed](https://raw.githubusercontent.com/nisalgunawardhana/How-To-Create-MCP-Server/main/images/badge.png)
+### 
 
-**MCP Server - .NET Implementation**
-*Completed on January 14, 2026*
+## 🎖️ Certifications & Badges
+
+### MCP Server - .NET Implementation
+**Date:** January 14, 2026
+**Approved by:** [@nisalgunawardhana](https://github.com/nisalgunawardhana)
+
+<img src="https://raw.githubusercontent.com/nisalgunawardhana/How-To-Create-MCP-Server/main/images/badge.png" alt="MCP Server Completed" width="250" />
+
+*Successfully completed the tutorial for building and deploying an MCP Server using .NET.*

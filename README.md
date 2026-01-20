@@ -47,16 +47,21 @@
 
 ###
 ### 
+## 
+
+
 ## 🎖️ Certifications & Badges
 
-<img src="https://raw.githubusercontent.com/nisalgunawardhana/How-To-Create-MCP-Server/main/images/badge.png" alt="MCP Server Completed" width="250" align="left" />
-<img src="https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Beginner.png" alt="GitHub Actions Completed" width="250" />
+| MCP Server Implementation | GitHub Actions Learning | GitHub for Beginners |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/nisalgunawardhana/How-To-Create-MCP-Server/main/images/badge.png" width="200" /> | <img src="https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Beginner.png" width="200" /> | <img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/images/badge.png" width="200" /> |
+| **Date:** Jan 14, 2026 | **Date:** Jan 15, 2026 | **Date:** Jan 19, 2026 |
+| [.NET Implementation] | [Beginner Level] | [Core Fundamentals] |
 
-<br clear="left"/>
-
-*Successfully completed the **MCP Server implementation** (Jan 14) and the **GitHub Actions Learning Task** (Jan 15). Both approved by [@nisalgunawardhana](https://github.com/nisalgunawardhana).*
+*Successfully completed the **MCP Server implementation** (Jan 14) and the **GitHub Actions Learning Task** (Jan 15) and **GitHub Actions for beginners** (Jan 18). approved by [@nisalgunawardhana](https://github.com/nisalgunawardhana).*
 
 
+---
 
 
 

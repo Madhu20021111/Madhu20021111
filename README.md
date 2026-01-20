@@ -50,15 +50,16 @@
 ## 
 
 
-## 🎖️ Certifications & Badges
+##   🎖️ Certifications & Badges
 
-| MCP Server Implementation | GitHub Actions Learning | GitHub for Beginners |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/nisalgunawardhana/How-To-Create-MCP-Server/main/images/badge.png" width="200" /> | <img src="https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Beginner.png" width="200" /> | <img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/images/badge.png" width="200" /> |
-| **Date:** Jan 14, 2026 | **Date:** Jan 15, 2026 | **Date:** Jan 19, 2026 |
-| [.NET Implementation] | [Beginner Level] | [Core Fundamentals] |
+| MCP Server (.NET) | GitHub Actions | GitHub Beginners | API Learning 101 |
+| :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/nisalgunawardhana/How-To-Create-MCP-Server/main/images/badge.png" width="200" /> | <img src="https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Beginner.png" width="200" /> | <img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/images/badge.png" width="200" /> | <img src="https://raw.githubusercontent.com/nisalgunawardhana/api-learning-101/main/images/badges/badge.png" width="200" /> |
+| **Jan 14, 2026** | **Jan 15, 2026** | **Jan 19, 2026** | **Jan 20, 2026** |
 
-*Successfully completed the **MCP Server implementation** (Jan 14) and the **GitHub Actions Learning Task** (Jan 15) and **GitHub Actions for beginners** (Jan 18). approved by [@nisalgunawardhana](https://github.com/nisalgunawardhana).*
+---
+
+*Successfully completed the **MCP Server implementation** (Jan 14) and the **GitHub Actions Learning Task** (Jan 15) and **GitHub Actions for beginners** (Jan 18) and **API Learning 101** (Jan 20). approved by [@nisalgunawardhana](https://github.com/nisalgunawardhana).*
 
 
 ---
